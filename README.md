@@ -1,2 +1,2 @@
 # acl2019-commonsense-reasoning
-Source code for the paper "Attention Is (not) All You Need for Commonsense Reasoning" published at ACL 2019.
+Source code for the paper "Attention Is (not) All You Need for Commonsense Reasoning" published at ACL 2019. It features a simple re-implementation of BERT (Bidirectional Encoder Representations from Transformers) for commonsense reasoning. To this end, it employs attentions produced by BERT for utilization of tasks such as the Pronoun Disambiguation Problem and Winograd Schema Challenge.
