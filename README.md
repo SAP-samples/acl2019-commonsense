@@ -90,4 +90,4 @@ please cite:
 
 ## License
 
-This project is licensed under SAP Sample Code License Agreement except as noted otherwise in the [LICENSE file](LICENSE.md).
+This project is licensed under SAP Sample Code License Agreement except as noted otherwise in the [LICENSE file](LICENSE).
