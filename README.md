@@ -35,12 +35,12 @@ pip install -r requirements.txt
 ```
 
 5. Create 'data' sub-directory and download files for PDP and WSC challenges:
-    ```
-    mkdir data
-    wget https://cs.nyu.edu/faculty/davise/papers/WinogradSchemas/PDPChallenge2016.xml
-    wget https://cs.nyu.edu/faculty/davise/papers/WinogradSchemas/WSCollection.xml
-    cd ..
-    ```
+```
+mkdir data
+wget https://cs.nyu.edu/faculty/davise/papers/WinogradSchemas/PDPChallenge2016.xml
+wget https://cs.nyu.edu/faculty/davise/papers/WinogradSchemas/WSCollection.xml
+cd ..
+```
 6. Run the scripts from the paper
 
 For replicating the results on WSC:
