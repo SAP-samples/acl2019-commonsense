@@ -68,19 +68,19 @@ If you use this code in your research,
 please cite:
 
 ```
-@article{DBLP:journals/corr/abs-1905-13497,
-  author    = {Tassilo Klein and
-               Moin Nabi},
-  title     = {Attention Is (not) All You Need for Commonsense Reasoning},
-  journal   = {CoRR},
-  volume    = {abs/1905.13497},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1905.13497},
-  archivePrefix = {arXiv},
-  eprint    = {1905.13497},
-  timestamp = {Mon, 03 Jun 2019 13:42:33 +0200},
-  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1905-13497},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@inproceedings{klein-nabi-2019-attention,
+    title = "Attention Is (not) All You Need for Commonsense Reasoning",
+    author = "Klein, Tassilo  and
+      Nabi, Moin",
+    booktitle = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/P19-1477",
+    doi = "10.18653/v1/P19-1477",
+    pages = "4831--4836",
+    abstract = "The recently introduced BERT model exhibits strong performance on several language understanding benchmarks. In this paper, we describe a simple re-implementation of BERT for commonsense reasoning. We show that the attentions produced by BERT can be directly utilized for tasks such as the Pronoun Disambiguation Problem and Winograd Schema Challenge. Our proposed attention-guided commonsense reasoning method is conceptually simple yet empirically powerful. Experimental analysis on multiple datasets demonstrates that our proposed system performs remarkably well on all cases while outperforming the previously reported state of the art by a margin. While results suggest that BERT seems to implicitly learn to establish complex relationships between entities, solving commonsense reasoning tasks might require more than unsupervised models learned from huge text corpora.",
 }
 ```
 
