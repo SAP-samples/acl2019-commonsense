@@ -1,2 +1,2 @@
-fuzzywuzzy
+rapidfuzz
 nltk

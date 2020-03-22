@@ -6,7 +6,7 @@ import argparse
 from tqdm import trange, tqdm
 import data_processors as processors
 import numpy as np
-from fuzzywuzzy import fuzz
+from rapidfuzz import fuzz
 
 def contains_word(s, w):
     return s.find(w) > -1
