@@ -18,6 +18,9 @@ cd bertviz
 pip install -r requirements.txt
 cd ..
 ```
+
+2. To replicate the results proceed to step 3). If you want to run the stand-alone version, you can just use [MAS.py](https://github.com/SAP-samples/acl2019-commonsense-reasoning/blob/master/MAS.py). Usage is showcased in the Jupyter Notebook example [MAS_Example.ipynb](https://github.com/SAP-samples/acl2019-commonsense-reasoning/blob/master/MAS_Example.ipynb).
+
 3. Add BertViz path to Python path:
 ```
   export PYTHONPATH=$PYTHONPATH:/home/ubuntu/bertviz/
