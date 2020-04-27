@@ -7,6 +7,7 @@ The sample code provided within this repository allows to replicate the results 
 ## Requirements
 - [Python](https://www.python.org/)
 - [PyTorch](https://pytorch.org/)
+- [Huggingface Tranformers](https://github.com/huggingface/transformers)
 - [BertViz](https://github.com/jessevig/bertviz)
 - [WSC,PDP data](https://cs.nyu.edu/faculty/davise/papers/WinogradSchemas/)
 
