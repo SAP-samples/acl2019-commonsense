@@ -1,4 +1,6 @@
 # Attention Is (not) All You Need for Commonsense Reasoning
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 #### News
 - Updated to version 0.2.0: added stand-alone script and example script
