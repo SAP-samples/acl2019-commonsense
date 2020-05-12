@@ -68,6 +68,9 @@ python commonsense.py --data_dir=~/acl2019-commonsense-reasoning/data/ --bert_mo
 
 For more information on the individual functions, please refer to their doc strings.
 
+## Related Work
+See our latest work accepted at [ACL'20](http://acl2020.org/) on commonsense reasoning using contrastive self-supervised learning. [arXiv](https://arxiv.org/abs/2005.00669), [GitHub](https://github.com/SAP-samples/acl2020-commonsense/)
+
 ## Known Issues
 No issues known
 
