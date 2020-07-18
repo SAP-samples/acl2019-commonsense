@@ -6,7 +6,9 @@
 - Updated to version 0.2.0: added stand-alone script and example script
 - Updated to version 0.1.0: allows replication of our ACL'19 paper results
 
+
 ## Description:
+![Schematic Illustration MAS](https://github.com/SAP-samples/acl2019-commonsense/blob/master/img/mas_illustration.png)
 The recently introduced [BERT (Deep Bidirectional Transformers for Language Understanding)](https://github.com/google-research/bert) [1] model exhibits strong performance on several language understanding benchmarks. In this work, we describe a simple re-implementation of BERT for commonsense reasoning. We show that the attentions produced by BERT can be directly utilized for tasks such as the Pronoun Disambiguation Problem (PDP) and Winograd Schema Challenge (WSC). Our proposed attention-guided commonsense reasoning method is conceptually simple yet empirically powerful. Experimental analysis on multiple datasets demonstrates that our proposed system performs remarkably well on all cases while outperforming the previously reported state of the art by a margin. While results suggest that BERT seems to implicitly learn to establish complex relationships between entities, solving commonsense reasoning tasks might require more than unsupervised models learned from huge text corpora.
 The sample code provided within this repository allows to replicate the results reported in the paper for PDP and WSC.
 #### Authors:
