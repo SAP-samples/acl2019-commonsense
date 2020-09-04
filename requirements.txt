@@ -1,2 +1,4 @@
+transformers
+torch>=1.2.0
 rapidfuzz
 nltk
