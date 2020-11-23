@@ -1,3 +1,9 @@
+#
+# SPDX-FileCopyrightText: 2019-2020 SAP SE or an SAP affiliate company
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+
 import sys
 #sys.path.append("/home/ubuntu/bertviz/")
 from bertviz.pytorch_pretrained_bert import BertModel, BertTokenizer 
