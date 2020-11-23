@@ -1,6 +1,8 @@
 # Attention Is (not) All You Need for Commonsense Reasoning
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/acl2019-commonsense)](https://api.reuse.software/info/github.com/SAP-samples/acl2019-commonsense)
+
 
 #### News
 - Updated to version 0.2.0: added stand-alone script and example script
@@ -107,4 +109,4 @@ please cite:
 
 
 ## License
-Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE file](LICENSE).
+Copyright (c) 2019-2020 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE file](LICENSE).
